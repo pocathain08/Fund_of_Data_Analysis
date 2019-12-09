@@ -14,5 +14,8 @@ Looking at the Party/Bill and Party/tips, both plots look very similar, which su
 
 
 
-#Regression: To the above jupyter notebook add a section that discusses and analyseswhetherthereisarelationshipbetweenthetotalbillandtipamount, and this part is also worth 30%. (40%) 
+#Regression: To the above jupyter notebook add a section that discusses and analyses whether there is a relationship between the total bill and tip amount.
+
+
+
 #Analyse: Again using the same notebook, analyse the relationship between the variables within the dataset. You are free to interpret this as you wish — for example, you may analyse all pairs of variables, or select a subset and analyse those. This part is worth 40%.
