@@ -15,7 +15,9 @@ Looking at the Party/Bill and Party/tips, both plots look very similar, which su
 
 
 #Regression: To the above jupyter notebook add a section that discusses and analyses whether there is a relationship between the total bill and tip amount.
-
+ https://github.com/ianmcloughlin/jupyter-teaching-notebooks/blob/master/simple-linear-regression.ipynb
+ 
+ https://stackoverflow.com/questions/12182063/how-to-calculate-the-regularization-parameter-in-linear-regression
 
 
 #Analyse: Again using the same notebook, analyse the relationship between the variables within the dataset. You are free to interpret this as you wish — for example, you may analyse all pairs of variables, or select a subset and analyse those. This part is worth 40%.
